@@ -1,3 +1,3 @@
-# Collections
+# Estrutura de Dados
 
-Exercícios sobre Collections - List&Set - Generation
+Exercícios sobre Stack & Queue - Generation
